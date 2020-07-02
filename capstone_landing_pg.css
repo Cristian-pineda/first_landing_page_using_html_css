@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    border: 50px solid #7FABC4;
+    border-top: 0px;
+    margin: 0px;
+    background-color: #3B5060;
+    color: #FFFFFF; 
+}
+
+header{
+    font-family: charcuterie-deco,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+#form_header{
+    font-family: charcuterie-deco,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+p{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+    font-family: brother-1816,sans-serif;
+    font-size: 1em;
+    font-weight: 200;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+#fn_label{
+    font-family: brother-1816,sans-serif;
+    font-size: 1.25em;
+    font-weight: 200;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+#fn_input{
+    width: 250px;
+    height: 30px;
+}
+
+#ln_label{
+    font-family: brother-1816,sans-serif;
+    font-size: 1em;
+    font-weight: 200;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+#ln_input{
+    width: 250px;
+    height: 30px;
+}
+
+#email_label{
+    font-family: brother-1816,sans-serif;
+    font-size: 1em;
+    font-weight: 200;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+#email_input{
+    width: 250px;
+    height: 30px;
+}
+
+#form_submit_button{
+    padding: 10px 20px 11px !important;
+    font-size: 21px !important;
+    background-color:#F5C630;
+    font-weight: bold;
+    text-shadow: 1px 1px #F5C630;
+    color: #ffffff;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border: 1px solid #F5C630;
+    cursor: pointer;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+/* Color Theme Swatches in Hex */
+.desert-expert-1-hex { color: #3B2419; }
+.desert-expert-2-hex { color: #FFFFFF; }
+.desert-expert-3-hex { color: #F5C630; }
+.desert-expert-4-hex { color: #7FABC4; }
+.desert-expert-5-hex { color: #3B5060; }
